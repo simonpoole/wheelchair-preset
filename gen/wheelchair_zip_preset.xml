@@ -19,7 +19,8 @@
             <list_entry value="yes" short_description="Unrestricted access" />
             <list_entry value="limited" short_description="Partial access" />
             <list_entry value="no" short_description="No access" />          
-        	</combo>
+            </combo>
+            <preset_link preset_name="Wheelchair details" />
         </item> <!-- Wheelchair access -->
         <item name="Wheelchair details" icon="wheelchair.png" type="node,way,closedway,relation" preset_name_label="true">
             <link href="http://wiki.openstreetmap.org/wiki/Tag:wheelchair" />
