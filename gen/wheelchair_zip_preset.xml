@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" shortdescription="Wheelchair Preset for Vespucci and JOSM" description="Wheelchair preset for Vespucci and JOSM, based on the original JOSM version">
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" 
+    shortdescription="Wheelchair Preset for Vespucci and JOSM"
+    description="Wheelchair preset for Vespucci and JOSM, based on the original JOSM version">
 <!--
     Icons have been derived from mainly from
  
