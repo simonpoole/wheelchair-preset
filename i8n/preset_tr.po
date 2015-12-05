@@ -1,0 +1,78 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: Presets\n"
+"POT-Creation-Date: 2015-12-05 15:13+0100\n"
+"PO-Revision-Date: 2015-12-05 14:15+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Turkish (http://www.transifex.com/openstreetmap/presets/language/tr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: master_preset.xml:13(group:name|group:Wheelchair)
+msgid "Wheelchair"
+msgstr ""
+
+#: master_preset.xml:31(text:text|group:Wheelchair|preset:Wheelchair_details)
+#: master_preset.xml:28(text:text|group:Wheelchair|preset:Wheelchair_details)
+#: master_preset.xml:29(text:text|group:Wheelchair|preset:Wheelchair_details)
+#: master_preset.xml:30(text:text|group:Wheelchair|preset:Wheelchair_details)
+msgid "Details"
+msgstr ""
+
+#: master_preset.xml:19(list_entry:short_description|group:Wheelchair|preset:Wheelchair_access)
+msgid "Unrestricted access"
+msgstr ""
+
+#: master_preset.xml:34(text:text|group:Wheelchair|preset:Wheelchair_details)
+msgid "Number of rooms suitable for wheelchairs"
+msgstr ""
+
+#: master_preset.xml:14(item:name|group:Wheelchair|preset:Wheelchair_access)
+msgid "Wheelchair access"
+msgstr ""
+
+#: master_preset.xml:35(text:text|group:Wheelchair|preset:Wheelchair_details)
+msgid "Number of wheelchair seating places in cinemas and similar"
+msgstr ""
+
+#: master_preset.xml:20(list_entry:short_description|group:Wheelchair|preset:Wheelchair_access)
+msgid "Partial access"
+msgstr ""
+
+#: master_preset.xml:17(combo:text|group:Wheelchair|preset:Wheelchair_access)
+msgid "Wheelchairs"
+msgstr "Tekerlekli sandalyeler"
+
+#: master_preset.xml:25(item:name|group:Wheelchair|preset:Wheelchair_details)
+msgid "Wheelchair details"
+msgstr ""
+
+#: master_preset.xml:21(list_entry:short_description|group:Wheelchair|preset:Wheelchair_access)
+msgid "No access"
+msgstr ""
+
+#: master_preset.xml:32(text:text|group:Wheelchair|preset:Wheelchair_details)
+msgid "Entrance width in cm"
+msgstr ""
+
+#: master_preset.xml:18(list_entry:short_description|group:Wheelchair|preset:Wheelchair_access)
+msgid "Dedicated facilities"
+msgstr ""
+
+#: master_preset.xml:33(text:text|group:Wheelchair|preset:Wheelchair_details)
+msgid "Step height in cm"
+msgstr ""
+
+#: master_preset.xml:36(combo:text|group:Wheelchair|preset:Wheelchair_details)
+msgid "Master key type"
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: master_preset.xml0(None)
+msgid "translator-credits"
+msgstr ""
