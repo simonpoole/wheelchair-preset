@@ -7,6 +7,6 @@ rm  wheelchair.zip
 zip wheelchair.zip wheelchair_zip_preset.xml
 cd ../icons/png
 ls *.png | zip -@ ../../gen/wheelchair.zip 
-#cd ../../i8n
-#ls *.po | zip -@ ../gen/wheelchair.zip 
+cd ../../i8n
+ls *.po | zip -@ ../gen/wheelchair.zip 
 
