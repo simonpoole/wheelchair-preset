@@ -23,6 +23,10 @@ div.footer{
 	font: 10px arial, sans-serif;
 }
 
+div.download {
+	font: 16px arial, sans-serif;
+}
+
 div.container {
   background: #E0E0E0;
   position: relative;
