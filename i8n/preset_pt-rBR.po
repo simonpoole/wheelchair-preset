@@ -18,12 +18,26 @@ msgstr ""
 msgid "Wheelchair"
 msgstr "Cadeira de rodas"
 
+#: master_preset.xml:15(link:href|group:Wheelchair|preset:Wheelchair_access)
+#: master_preset.xml:26(link:href|group:Wheelchair|preset:Wheelchair_details)
+msgid "http://wiki.openstreetmap.org/wiki/Key:wheelchair"
+msgstr "http://wiki.openstreetmap.org/wiki/Pt-br:Key:wheelchair"
+
 #: master_preset.xml:31(text:text|group:Wheelchair|preset:Wheelchair_details)
+msgid "Details"
+msgstr "Comentário em francês"
+
 #: master_preset.xml:28(text:text|group:Wheelchair|preset:Wheelchair_details)
+msgid "Details"
+msgstr "Comentário"
+
 #: master_preset.xml:29(text:text|group:Wheelchair|preset:Wheelchair_details)
+msgid "Details"
+msgstr "Comentário em inglês"
+
 #: master_preset.xml:30(text:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Details"
-msgstr "Detalhamento"
+msgstr "Comentário em alemão"
 
 #: master_preset.xml:19(list_entry:short_description|group:Wheelchair|preset:Wheelchair_access)
 msgid "Unrestricted access"
@@ -47,7 +61,7 @@ msgstr "Parcialmente acessível"
 
 #: master_preset.xml:17(combo:text|group:Wheelchair|preset:Wheelchair_access)
 msgid "Wheelchairs"
-msgstr "Cadeira de rodas"
+msgstr "Acesso com cadeira de rodas"
 
 #: master_preset.xml:25(item:name|group:Wheelchair|preset:Wheelchair_details)
 msgid "Wheelchair details"
