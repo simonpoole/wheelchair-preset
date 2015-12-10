@@ -12,7 +12,7 @@
   <!--  Groups -->
   <group name="Wheelchair" icon="wheelchair.png">
         <item name="Wheelchair access" icon="wheelchair.png" type="node,way,closedway,relation" preset_name_label="true">
-            <link href="http://wiki.openstreetmap.org/wiki/Tag:wheelchair" />
+            <link href="http://wiki.openstreetmap.org/wiki/Key:wheelchair" />
             <space />
             <combo key="wheelchair" text="Wheelchairs" values_searchable="true" values_sort="false">
             <list_entry value="designated" short_description="Dedicated facilities" />
@@ -23,7 +23,7 @@
             <preset_link preset_name="Wheelchair details" />
         </item> <!-- Wheelchair access -->
         <item name="Wheelchair details" icon="wheelchair.png" type="node,way,closedway,relation" preset_name_label="true">
-            <link href="http://wiki.openstreetmap.org/wiki/Tag:wheelchair" />
+            <link href="http://wiki.openstreetmap.org/wiki/Key:wheelchair" />
             <space />   
         	<text key="wheelchair:description" text="Details"/>
         	<text key="wheelchair:description:en" text="Details"/>
