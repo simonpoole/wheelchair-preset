@@ -6,5 +6,5 @@ type = PO
 file_filter = i8n/preset_<lang>.po
 lang_map = cs: cs-rCZ, zh_TW: zh-rTW, pt_BR: pt-rBR, zh-Hans: zh-rCN
 source_lang = en
-minimum_perc = 5
+minimum_perc = 50
 
