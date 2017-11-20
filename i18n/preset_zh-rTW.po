@@ -1,11 +1,12 @@
 # 
 # Translators:
+# Supaplex <bejokeup@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: Presets\n"
 "POT-Creation-Date: 2015-12-05 15:13+0100\n"
-"PO-Revision-Date: 2015-12-05 14:15+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-09-22 18:15+0000\n"
+"Last-Translator: Supaplex <bejokeup@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/openstreetmap/presets/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,34 +16,34 @@ msgstr ""
 
 #: master_preset.xml:13(group:name|group:Wheelchair)
 msgid "Wheelchair"
-msgstr ""
+msgstr "輪椅"
 
 #: master_preset.xml:31(text:text|group:Wheelchair|preset:Wheelchair_details)
 #: master_preset.xml:28(text:text|group:Wheelchair|preset:Wheelchair_details)
 #: master_preset.xml:29(text:text|group:Wheelchair|preset:Wheelchair_details)
 #: master_preset.xml:30(text:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Details"
-msgstr ""
+msgstr "詳情"
 
 #: master_preset.xml:19(list_entry:short_description|group:Wheelchair|preset:Wheelchair_access)
 msgid "Unrestricted access"
-msgstr ""
+msgstr "移動不受限制"
 
 #: master_preset.xml:34(text:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Number of rooms suitable for wheelchairs"
-msgstr ""
+msgstr "適合輪移行動的房間數量"
 
 #: master_preset.xml:14(item:name|group:Wheelchair|preset:Wheelchair_access)
 msgid "Wheelchair access"
-msgstr ""
+msgstr "輪椅移動限制"
 
 #: master_preset.xml:35(text:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Number of wheelchair seating places in cinemas and similar"
-msgstr ""
+msgstr "戲院或其他類似場所的輪椅位子數量"
 
 #: master_preset.xml:20(list_entry:short_description|group:Wheelchair|preset:Wheelchair_access)
 msgid "Partial access"
-msgstr ""
+msgstr "部分可通行"
 
 #: master_preset.xml:17(combo:text|group:Wheelchair|preset:Wheelchair_access)
 msgid "Wheelchairs"
@@ -50,29 +51,29 @@ msgstr "輪椅"
 
 #: master_preset.xml:25(item:name|group:Wheelchair|preset:Wheelchair_details)
 msgid "Wheelchair details"
-msgstr ""
+msgstr "輪椅詳情"
 
 #: master_preset.xml:21(list_entry:short_description|group:Wheelchair|preset:Wheelchair_access)
 msgid "No access"
-msgstr ""
+msgstr "不可通行"
 
 #: master_preset.xml:32(text:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Entrance width in cm"
-msgstr ""
+msgstr "以公分丈量的入口寬度"
 
 #: master_preset.xml:18(list_entry:short_description|group:Wheelchair|preset:Wheelchair_access)
 msgid "Dedicated facilities"
-msgstr ""
+msgstr "專用設備"
 
 #: master_preset.xml:33(text:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Step height in cm"
-msgstr ""
+msgstr "以公分丈量的階梯高度"
 
 #: master_preset.xml:36(combo:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Master key type"
-msgstr ""
+msgstr "主鑰匙種類"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: master_preset.xml0(None)
 msgid "translator-credits"
-msgstr ""
+msgstr "Supaplex <b92612009@gmail.com>,2016"
