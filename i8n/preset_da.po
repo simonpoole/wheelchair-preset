@@ -1,72 +1,79 @@
+# 
+# Translators:
+# Jurbo Lator <joern.map@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: Presets\n"
 "POT-Creation-Date: 2015-12-05 15:13+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2017-09-22 18:15+0000\n"
+"Last-Translator: Jurbo Lator <joern.map@gmail.com>\n"
+"Language-Team: Danish (http://www.transifex.com/openstreetmap/presets/language/da/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: da\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: master_preset.xml:13(group:name|group:Wheelchair)
 msgid "Wheelchair"
-msgstr ""
+msgstr "Kørestol"
 
-#: master_preset.xml:31(text:text|group:Wheelchair|preset:Wheelchair_details) master_preset.xml:28(text:text|group:Wheelchair|preset:Wheelchair_details) master_preset.xml:29(text:text|group:Wheelchair|preset:Wheelchair_details) master_preset.xml:30(text:text|group:Wheelchair|preset:Wheelchair_details)
+#: master_preset.xml:31(text:text|group:Wheelchair|preset:Wheelchair_details)
+#: master_preset.xml:28(text:text|group:Wheelchair|preset:Wheelchair_details)
+#: master_preset.xml:29(text:text|group:Wheelchair|preset:Wheelchair_details)
+#: master_preset.xml:30(text:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Details"
-msgstr ""
+msgstr "Detaljer"
 
 #: master_preset.xml:19(list_entry:short_description|group:Wheelchair|preset:Wheelchair_access)
 msgid "Unrestricted access"
-msgstr ""
+msgstr "Fri adgang"
 
 #: master_preset.xml:34(text:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Number of rooms suitable for wheelchairs"
-msgstr ""
+msgstr "Antal værelser egnet til kørestole"
 
 #: master_preset.xml:14(item:name|group:Wheelchair|preset:Wheelchair_access)
 msgid "Wheelchair access"
-msgstr ""
+msgstr "Kørestolsadgang"
 
 #: master_preset.xml:35(text:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Number of wheelchair seating places in cinemas and similar"
-msgstr ""
+msgstr "Antal kørestols siddepladser i biografer og lignende"
 
 #: master_preset.xml:20(list_entry:short_description|group:Wheelchair|preset:Wheelchair_access)
 msgid "Partial access"
-msgstr ""
+msgstr "Delvis adgang"
 
 #: master_preset.xml:17(combo:text|group:Wheelchair|preset:Wheelchair_access)
 msgid "Wheelchairs"
-msgstr ""
+msgstr "Kørestole"
 
 #: master_preset.xml:25(item:name|group:Wheelchair|preset:Wheelchair_details)
 msgid "Wheelchair details"
-msgstr ""
+msgstr "Kørestols detaljer"
 
 #: master_preset.xml:21(list_entry:short_description|group:Wheelchair|preset:Wheelchair_access)
 msgid "No access"
-msgstr ""
+msgstr "Ingen adgang"
 
 #: master_preset.xml:32(text:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Entrance width in cm"
-msgstr ""
+msgstr "Indgangs bredde i cm"
 
 #: master_preset.xml:18(list_entry:short_description|group:Wheelchair|preset:Wheelchair_access)
 msgid "Dedicated facilities"
-msgstr ""
+msgstr "Særlige anlæg"
 
 #: master_preset.xml:33(text:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Step height in cm"
-msgstr ""
+msgstr "Trin højde i cm"
 
 #: master_preset.xml:36(combo:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Master key type"
 msgstr ""
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
-#: master_preset.xml:0(None)
+#: master_preset.xml0(None)
 msgid "translator-credits"
 msgstr ""
-

@@ -1,80 +1,79 @@
 # 
 # Translators:
-# Sebastian, 2017
-# Simon Poole <sp8962@gmail.com>, 2015
+# Mika Laari <laari@iki.fi>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: Presets\n"
 "POT-Creation-Date: 2015-12-05 15:13+0100\n"
-"PO-Revision-Date: 2017-11-19 11:17+0000\n"
-"Last-Translator: Sebastian\n"
-"Language-Team: German (http://www.transifex.com/openstreetmap/presets/language/de/)\n"
+"PO-Revision-Date: 2017-11-19 12:03+0000\n"
+"Last-Translator: Mika Laari <laari@iki.fi>\n"
+"Language-Team: Finnish (http://www.transifex.com/openstreetmap/presets/language/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: de\n"
+"Language: fi\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: master_preset.xml:13(group:name|group:Wheelchair)
 msgid "Wheelchair"
-msgstr "Rollstuhlzugang"
+msgstr "Pyörätuoli"
 
 #: master_preset.xml:31(text:text|group:Wheelchair|preset:Wheelchair_details)
 #: master_preset.xml:28(text:text|group:Wheelchair|preset:Wheelchair_details)
 #: master_preset.xml:29(text:text|group:Wheelchair|preset:Wheelchair_details)
 #: master_preset.xml:30(text:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Details"
-msgstr "Details"
+msgstr "Yksityiskohdat"
 
 #: master_preset.xml:19(list_entry:short_description|group:Wheelchair|preset:Wheelchair_access)
 msgid "Unrestricted access"
-msgstr "Unbegrenzter Zugang"
+msgstr "Esteetön pääsy"
 
 #: master_preset.xml:34(text:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Number of rooms suitable for wheelchairs"
-msgstr "Anzahl Zimmer die für Rollstühle geeignet sind"
+msgstr "Pyörätuolille soveltuvien huoneiden määrä"
 
 #: master_preset.xml:14(item:name|group:Wheelchair|preset:Wheelchair_access)
 msgid "Wheelchair access"
-msgstr "Rollstuhlzugang"
+msgstr "Pääsy pyörätuolilla"
 
 #: master_preset.xml:35(text:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Number of wheelchair seating places in cinemas and similar"
-msgstr "Anzahl Rollstuhlplätze in Kinos und ähnlichem"
+msgstr "Pyörätuolipaikkojen määrä elokuvateattereissa ja vastaavissa paikoissa"
 
 #: master_preset.xml:20(list_entry:short_description|group:Wheelchair|preset:Wheelchair_access)
 msgid "Partial access"
-msgstr "Teilweiser Zugang"
+msgstr "Osittainen pääsy"
 
 #: master_preset.xml:17(combo:text|group:Wheelchair|preset:Wheelchair_access)
 msgid "Wheelchairs"
-msgstr "Rollstuhlzugang"
+msgstr "Pyörätuolit"
 
 #: master_preset.xml:25(item:name|group:Wheelchair|preset:Wheelchair_details)
 msgid "Wheelchair details"
-msgstr "Rollstuhlzugangdetail"
+msgstr "Pyörätuolin yksityiskohdat"
 
 #: master_preset.xml:21(list_entry:short_description|group:Wheelchair|preset:Wheelchair_access)
 msgid "No access"
-msgstr "Kein Zugang"
+msgstr "Ei pääsyä"
 
 #: master_preset.xml:32(text:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Entrance width in cm"
-msgstr "Eingangsbreite in cm"
+msgstr "Sisäänkäynnin leveys (cm)"
 
 #: master_preset.xml:18(list_entry:short_description|group:Wheelchair|preset:Wheelchair_access)
 msgid "Dedicated facilities"
-msgstr "Spezielle Einrichtung"
+msgstr "Pyörätuolivarustus"
 
 #: master_preset.xml:33(text:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Step height in cm"
-msgstr "Stufenhöhe in cm"
+msgstr "Askelman korkeus (cm)"
 
 #: master_preset.xml:36(combo:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Master key type"
-msgstr "Zentralschlüsseltyp"
+msgstr "Pääavaimen tyyppi"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: master_preset.xml0(None)
 msgid "translator-credits"
-msgstr "Übersetzer-Credits"
+msgstr "Mika Laari <laari@iki.fi>, 2017, 2017"

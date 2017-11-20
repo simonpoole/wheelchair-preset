@@ -1,80 +1,80 @@
 # 
 # Translators:
-# Sebastian, 2017
-# Simon Poole <sp8962@gmail.com>, 2015
+# Balázs Meskó <meskobalazs@gmail.com>, 2016
+# Gábor Babos <gabor.babos@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: Presets\n"
 "POT-Creation-Date: 2015-12-05 15:13+0100\n"
-"PO-Revision-Date: 2017-11-19 11:17+0000\n"
-"Last-Translator: Sebastian\n"
-"Language-Team: German (http://www.transifex.com/openstreetmap/presets/language/de/)\n"
+"PO-Revision-Date: 2017-09-22 18:15+0000\n"
+"Last-Translator: Gábor Babos <gabor.babos@gmail.com>\n"
+"Language-Team: Hungarian (http://www.transifex.com/openstreetmap/presets/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: de\n"
+"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: master_preset.xml:13(group:name|group:Wheelchair)
 msgid "Wheelchair"
-msgstr "Rollstuhlzugang"
+msgstr "Kerekesszék"
 
 #: master_preset.xml:31(text:text|group:Wheelchair|preset:Wheelchair_details)
 #: master_preset.xml:28(text:text|group:Wheelchair|preset:Wheelchair_details)
 #: master_preset.xml:29(text:text|group:Wheelchair|preset:Wheelchair_details)
 #: master_preset.xml:30(text:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Details"
-msgstr "Details"
+msgstr "Részletek"
 
 #: master_preset.xml:19(list_entry:short_description|group:Wheelchair|preset:Wheelchair_access)
 msgid "Unrestricted access"
-msgstr "Unbegrenzter Zugang"
+msgstr "Akadálymentes"
 
 #: master_preset.xml:34(text:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Number of rooms suitable for wheelchairs"
-msgstr "Anzahl Zimmer die für Rollstühle geeignet sind"
+msgstr "Akadálymentes helyiségek száma"
 
 #: master_preset.xml:14(item:name|group:Wheelchair|preset:Wheelchair_access)
 msgid "Wheelchair access"
-msgstr "Rollstuhlzugang"
+msgstr "Akadálymentes használat"
 
 #: master_preset.xml:35(text:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Number of wheelchair seating places in cinemas and similar"
-msgstr "Anzahl Rollstuhlplätze in Kinos und ähnlichem"
+msgstr "Kerekesszékes ülőhelyek száma moziban és hasonló helyeken"
 
 #: master_preset.xml:20(list_entry:short_description|group:Wheelchair|preset:Wheelchair_access)
 msgid "Partial access"
-msgstr "Teilweiser Zugang"
+msgstr "Részben akadálymentes"
 
 #: master_preset.xml:17(combo:text|group:Wheelchair|preset:Wheelchair_access)
 msgid "Wheelchairs"
-msgstr "Rollstuhlzugang"
+msgstr "Akadálymentesség"
 
 #: master_preset.xml:25(item:name|group:Wheelchair|preset:Wheelchair_details)
 msgid "Wheelchair details"
-msgstr "Rollstuhlzugangdetail"
+msgstr "Akadálymentesség  részletek"
 
 #: master_preset.xml:21(list_entry:short_description|group:Wheelchair|preset:Wheelchair_access)
 msgid "No access"
-msgstr "Kein Zugang"
+msgstr "Nem akadálymentes"
 
 #: master_preset.xml:32(text:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Entrance width in cm"
-msgstr "Eingangsbreite in cm"
+msgstr "Bejárat szélessége (cm)"
 
 #: master_preset.xml:18(list_entry:short_description|group:Wheelchair|preset:Wheelchair_access)
 msgid "Dedicated facilities"
-msgstr "Spezielle Einrichtung"
+msgstr "Kifejezetten kerekesszékes létesítmény"
 
 #: master_preset.xml:33(text:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Step height in cm"
-msgstr "Stufenhöhe in cm"
+msgstr "Lépcsőmagasság (cm)"
 
 #: master_preset.xml:36(combo:text|group:Wheelchair|preset:Wheelchair_details)
 msgid "Master key type"
-msgstr "Zentralschlüsseltyp"
+msgstr "Mesterkulcs típusa"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: master_preset.xml0(None)
 msgid "translator-credits"
-msgstr "Übersetzer-Credits"
+msgstr "Meskó Balázs <meskobalazs@gmail.com> 2016\nBabos Gábor <gabor.babos@gmail.com> 2017"
