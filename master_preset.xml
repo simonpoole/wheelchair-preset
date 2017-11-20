@@ -10,8 +10,8 @@
     Format description: https://josm.openstreetmap.de/wiki/TaggingPresets
 -->
   <!--  Groups -->
-  <group name="Wheelchair" icon="ICONPATH:wheelchair.ICONTYPE">
-        <item name="Wheelchair access" icon="ICONPATH:wheelchair.ICONTYPE" type="node,way,closedway,relation" preset_name_label="true">
+  <group name="Wheelchair" icon="${ICONPATH}wheelchair.${ICONTYPE}">
+        <item name="Wheelchair access" icon="${ICONPATH}wheelchair.${ICONTYPE}" type="node,way,closedway,relation" preset_name_label="true">
             <link href="http://wiki.openstreetmap.org/wiki/Tag:wheelchair" />
             <space />
             <combo key="wheelchair" text="Wheelchairs" values_searchable="true" values_sort="false">
@@ -22,7 +22,7 @@
             </combo>
             <preset_link preset_name="Wheelchair details" />
         </item> <!-- Wheelchair access -->
-        <item name="Wheelchair details" icon="ICONPATH:wheelchair.ICONTYPE" type="node,way,closedway,relation" preset_name_label="true">
+        <item name="Wheelchair details" icon="${ICONPATH}wheelchair.${ICONTYPE}" type="node,way,closedway,relation" preset_name_label="true">
             <link href="http://wiki.openstreetmap.org/wiki/Tag:wheelchair" />
             <space />   
         	<text key="wheelchair:description" text="Details"/>
