@@ -25,10 +25,7 @@
         <item name="Wheelchair details" icon="${ICONPATH}wheelchair.${ICONTYPE}" type="node,way,closedway,relation" preset_name_label="true">
             <link href="http://wiki.openstreetmap.org/wiki/Tag:wheelchair" />
             <space />   
-        	<text key="wheelchair:description" text="Details"/>
-        	<text key="wheelchair:description:en" text="Details"/>
-        	<text key="wheelchair:description:de" text="Details"/> 
-        	<text key="wheelchair:description:fr" text="Details"/>
+        	<text key="wheelchair:description" text="Details" i18n="true" />
 			<text key="wheelchair:entrance_width" text="Entrance width in cm"/>
 			<text key="wheelchair:step_height" text="Step height in cm"/>
 			<text key="wheelchair:rooms" text="Number of rooms suitable for wheelchairs"/>

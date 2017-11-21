@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2017-11-20 14:16+0100\n"
+"POT-Creation-Date: 2017-11-21 19:53+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,15 +13,15 @@ msgstr ""
 msgid "Dedicated facilities"
 msgstr ""
 
-#: master_preset.xml:28(text:text|group:Wheelchair|preset:Wheelchair_details|key:wheelchair:description) master_preset.xml:29(text:text|group:Wheelchair|preset:Wheelchair_details|key:wheelchair:description:en) master_preset.xml:30(text:text|group:Wheelchair|preset:Wheelchair_details|key:wheelchair:description:de) master_preset.xml:31(text:text|group:Wheelchair|preset:Wheelchair_details|key:wheelchair:description:fr)
+#: master_preset.xml:28(text:text|group:Wheelchair|preset:Wheelchair_details|key:wheelchair:description)
 msgid "Details"
 msgstr ""
 
-#: master_preset.xml:32(text:text|group:Wheelchair|preset:Wheelchair_details|key:wheelchair:entrance_width)
+#: master_preset.xml:29(text:text|group:Wheelchair|preset:Wheelchair_details|key:wheelchair:entrance_width)
 msgid "Entrance width in cm"
 msgstr ""
 
-#: master_preset.xml:36(combo:text|group:Wheelchair|preset:Wheelchair_details|key:centralkey)
+#: master_preset.xml:33(combo:text|group:Wheelchair|preset:Wheelchair_details|key:centralkey)
 msgid "Master key type"
 msgstr ""
 
@@ -29,11 +29,11 @@ msgstr ""
 msgid "No access"
 msgstr ""
 
-#: master_preset.xml:34(text:text|group:Wheelchair|preset:Wheelchair_details|key:wheelchair:rooms)
+#: master_preset.xml:31(text:text|group:Wheelchair|preset:Wheelchair_details|key:wheelchair:rooms)
 msgid "Number of rooms suitable for wheelchairs"
 msgstr ""
 
-#: master_preset.xml:35(text:text|group:Wheelchair|preset:Wheelchair_details|key:wheelchair:places)
+#: master_preset.xml:32(text:text|group:Wheelchair|preset:Wheelchair_details|key:wheelchair:places)
 msgid "Number of wheelchair seating places in cinemas and similar"
 msgstr ""
 
@@ -41,7 +41,7 @@ msgstr ""
 msgid "Partial access"
 msgstr ""
 
-#: master_preset.xml:33(text:text|group:Wheelchair|preset:Wheelchair_details|key:wheelchair:step_height)
+#: master_preset.xml:30(text:text|group:Wheelchair|preset:Wheelchair_details|key:wheelchair:step_height)
 msgid "Step height in cm"
 msgstr ""
 
